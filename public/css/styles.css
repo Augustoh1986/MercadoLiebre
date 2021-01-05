@@ -13,8 +13,8 @@ header{
 
 header .header-top{
     margin-top: 10px;
-    margin-left: 140px;
-    margin-right: 140px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
 
 header .logo{
@@ -79,7 +79,7 @@ header ul li a{
 
 section.banner img{
     width: 100%;
-    margin-top: -10px;
+    margin-top: -20px;
 }
 
 
