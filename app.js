@@ -16,8 +16,8 @@ app.get('/register', (req,res)=>{
 });
 
 
-app.listen(8080, () => { 
+app.listen(3000, () => { 
     console.log('-----------------------------------------------')
-    console.log('Todo salio OK! Ya podés ir a http://localhost:8080');
+    console.log('Todo salio OK! Ya podés ir a http://localhost:3000');
     console.log('-----------------------------------------------')
 });
