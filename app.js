@@ -16,7 +16,7 @@ app.get('/register', (req,res)=>{
 });
 
 
-app.listen(3000, () => { 
+app.listen(process.env.PORT || 3000, () => { 
     console.log('-----------------------------------------------')
     console.log('Todo salio OK! Ya podés ir a http://localhost:3000');
     console.log('-----------------------------------------------')
